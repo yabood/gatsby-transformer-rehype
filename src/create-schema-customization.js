@@ -16,7 +16,7 @@ const useTypeExists = (store, name) => (type) => {
     }
 
     const defs = plugin.typeOrTypeDef.definitions
-    const exists = defs.find(node => node.name.value === type)
+    const exists = defs.find(node => node.name?.value === type)
     return exists !== undefined
 }
 
