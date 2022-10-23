@@ -32,17 +32,17 @@
         "watch": "babel -w src --out-dir . --ignore **/__tests__"
     },
     "dependencies": {
-        "@babel/runtime": "7.13.9",
-        "hast-util-raw": "^6.0.2",
-        "lodash": "^4.17.21",
-        "rehype": "^11.0.0",
-        "unist-util-remove-position": "^3.0.0",
-        "unist-util-visit": "^2.0.3"
+        "@babel/runtime": "7.19.4",
+        "hast-util-raw": "7.2.2",
+        "lodash": "4.17.21",
+        "rehype": "12.0.1",
+        "unist-util-remove-position": "4.0.1",
+        "unist-util-visit": "4.1.1"
     },
     "devDependencies": {
-        "@babel/cli": "7.13.0",
-        "@babel/core": "7.13.8",
-        "babel-preset-gatsby-package": "1.0.0",
+        "@babel/cli": "7.19.3",
+        "@babel/core": "7.19.6",
+        "babel-preset-gatsby-package": "2.24.0",
         "cross-env": "7.0.3"
     },
     "peerDependencies": {
