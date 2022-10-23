@@ -1,3 +1,6 @@
+# Fork
+This plugin is a fork from gatsby-transformer-rehype created by styxlab.
+
 # gatsby-transformer-rehype
 [![Released under MIT license.](https://badgen.net/github/license/micromatch/micromatch)](https://github.com/styxlab/gatsby-theme-try-ghost/blob/master/LICENSE)
 [![gatsby-transformer-rehype npm package version.](https://badgen.net/npm/v/gatsby-transformer-rehype)](https://www.npmjs.org/package/gatsby-transformer-rehype)
